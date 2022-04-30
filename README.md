@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on saving the planet
+- 🌱 I’m currently learning GO
+
 <!--
 **Captain-ops/captain-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
