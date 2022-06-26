@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm DevOps and automation tool maker.
+I'm a DevOps and automation tool maker.
 
 - 🔭 I’m currently working on saving the planet
 - 🌱 I’m currently learning GO
