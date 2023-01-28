@@ -7,11 +7,11 @@ I'm a DevOps and automation tool maker.
 
 ## Tech Stack
 
-- 🧠 NodeJS, GO, Bash
-- ☁️ AWS
-- 📁 GitHub Actions, CircleCI, Jenkins, Drone
-- ⚓ K8s, K3s
-- 💻 Terraform, Ansible
+- 🧠 NodeJS, GO, Python
+- ☁️ AWS, Azure
+- 📁 GitHub Actions, Jenkins, Drone
+- ⚓ Kubernetes, K3s
+- 💻 Terraform, Ansible, Vagrant
 - 👮 Conftest
 
 <!--
