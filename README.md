@@ -2,12 +2,12 @@
 
 I'm a DevOps and automation tool maker.
 
-- 🔭 I’m currently working on saving the planet
-- 🌱 I’m currently learning GO
+- 🔭 I’m currently working on saving the planet.
+- 🌱 I’m currently learning Golang.
 
 ## Tech Stack
 
-- 🧠 NodeJS, GO, Python
+- 🧠 NodeJS, Go, Python
 - ☁️ AWS, Azure
 - 📁 GitHub Actions, Jenkins, Drone
 - ⚓ Kubernetes, K3s
